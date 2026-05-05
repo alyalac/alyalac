@@ -1,5 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Andrei Lance Camata</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> Andrei Lance Camata</h1>
 <h3 align="center">BS Computer Science Student</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D4FF&background=0D0D0D00&width=435&lines=Hi+I'm+Andrei+Lance+Camata)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=alyalac">
@@ -26,12 +29,13 @@
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,cs/>
+  </a>
+</p>
+
+ [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,cs)](https://skillicons.dev)
 
 </p>
 
