@@ -10,12 +10,6 @@
   </a>
 </p>
 
-## 🧠 My Focus Areas
-- Game Development
-- Linux System Administration
-- Open Source Development
-- Game Design & Mechanics
-- 2D/3D Game Art Pipeline
 
 
 ## 📊 GitHub Stats
