@@ -18,7 +18,7 @@
 - 2D/3D Game Art Pipeline
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/alyalac">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alyalac&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="alyalac's GitHub Stats" />
